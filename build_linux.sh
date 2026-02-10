@@ -1,5 +1,4 @@
 #!/bin/bash
-
 echo "Building Aerominal for Linux..."
 
 if ! command -v pyinstaller &> /dev/null
