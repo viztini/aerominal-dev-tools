@@ -1,6 +1,6 @@
 # Aerominal Dev Tools Kit
 
-Minimal diagnostic and performance suite for Aerominal.
+Minimal diagnostic and performance suite for Aerominal for Linux and Windows.
 
 ## Usage
 
@@ -26,3 +26,4 @@ python aerominal_tools.py run -c diag
 
 ## Individual Tools
 You can also run any script in the `tools/` subdirectories directly with `python`.
+
